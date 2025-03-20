@@ -1,1 +1,7 @@
 streamlit
+geopandas
+folium
+shapely
+json
+pandas
+plotly
